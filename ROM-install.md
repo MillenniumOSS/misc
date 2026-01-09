@@ -63,7 +63,7 @@ Using SD Card/Internal Storage (OrangeFox Recovery):
 Using SD Card (Custom ROM's Recovery):
 - Navigate to the ROM zip file and install it.
 - When prompted to reboot to recovery, select Yes
-4. Reboot System:
+5. Reboot System:
    - Reboot your device and enjoy the new ROM.
 ---
 ### Notes:
