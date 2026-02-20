@@ -24,10 +24,13 @@ First things first,
 ### Main Flashing Instructions(Clean Flash):
 1. Copy ROM zip file to SD Card:
    - Place the ROM zip file in the main directory of your external SD card.
-2. Reboot to Recovery:
+2. Flash the ROM Recovery
+   - Reboot into bootloader mode
+   - Flash vendor_boot: fastboot flash --slot=all vendor_boot vendor_boot.img
+3. Reboot to Recovery:
    - Boot into the ROM Recovery, DO NOT USE ORANGEFOX.
-3. Factory Reset (First time or switching ROM)
-4. Install ROM:
+4. Factory Reset (First time or switching ROM)
+5. Install ROM:
    - Using ADB Sideload (ROM Recovery):
 adb sideload rom-filename.zip
 (This one should be common sense to change to the actual ROM zip name)
@@ -36,7 +39,7 @@ Using SD Card/Internal Storage (OrangeFox Recovery):
 Using SD Card (Custom ROM's Recovery):
 - Navigate to the ROM zip file and install it.
 - When prompted to reboot to recovery, select Yes
-5. Reboot System:
+6. Reboot System:
    - Reboot your device and enjoy the new ROM.
 ---
 ### Notes:
