@@ -34,9 +34,9 @@ First things first,
    - Using ADB Sideload (ROM Recovery):
 adb sideload rom-filename.zip
 (This one should be common sense to change to the actual ROM zip name)
-Using SD Card (Custom ROM's Recovery):
-- Navigate to the ROM zip file and install it.
-- When prompted to reboot to recovery, select Yes
+    - Using SD Card (Custom ROM's Recovery):
+Navigate to the ROM zip file and install it.
+When prompted to reboot to recovery, select Yes
 6. Reboot System:
    - Reboot your device and enjoy the new ROM.
 ---
