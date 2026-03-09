@@ -58,10 +58,6 @@ fastboot reboot
    - Using ADB Sideload (LineageOS Recovery):
 adb sideload lineage-20.0-xxxxxxxx-UNOFFICIAL-LGxn.zip
 (This one should be common sense to change to the actual ROM zip name)
-Using SD Card/Internal Storage (OrangeFox Recovery):
-- Navigate to the ROM zip file and install it.
-Using SD Card (Custom ROM's Recovery):
-- Navigate to the ROM zip file and install it.
 - When prompted to reboot to recovery, select Yes
 5. Reboot System:
    - Reboot your device and enjoy the new ROM.
