@@ -12,11 +12,6 @@
 7. Reading Comprehension(MANDATORY)
 8. Coffee (optional)
 ---
-### Useful Links:
-
-[Legacy Install Guide(for old ROMs)](https://github.com/MillenniumOSS/misc/blob/main/ROM-install-legacy.md)
-
----
 First things first,
 1. Copy ROM zip file to SD Card:
    - Place the ROM zip file in the main directory of your external SD card. this is Important
@@ -45,3 +40,7 @@ When prompted to reboot to recovery, select Yes
 ---
 ### Known Issues:
 - Can't boot GSIs (Enforcing; not tested with Permissive mode). - wontfix
+---
+### Useful Links:
+
+[Legacy Install Guide(for old ROMs)](https://github.com/MillenniumOSS/misc/blob/main/ROM-install-legacy.md)
