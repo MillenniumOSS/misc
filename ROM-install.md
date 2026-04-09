@@ -2,19 +2,20 @@
 
 ## Applies to LG7n and LG8n and LH7n
 
-### Requirements:
-1. Unlocked Bootloader
-2. External SD Card(optional, but recommended)
-3. ROM Recovery
-4. PC or Secondary Phone and SD Card
-5. Brain(MANDATORY)
-6. Common Sense(MANDATORY)
-7. Reading Comprehension(MANDATORY)
-8. Coffee (optional)
+>[!IMPORTANT]
+>### Requirements:
+>1. Unlocked Bootloader
+>2. External SD Card(optional, but recommended)
+>3. ROM Recovery
+>4. PC or Secondary Phone and SD Card
+>5. Brain(MANDATORY)
+>6. Common Sense(MANDATORY)
+>7. Reading Comprehension(MANDATORY)
+>8. Coffee (optional)
 ---
 First things first,
 1. Copy ROM zip file to SD Card:
-   - Place the ROM zip file in the main directory of your external SD card. this is Important
+   - Place the ROM zip file in the main directory of your external SD card. this is Important
 ---
 ### Main Flashing Instructions(Clean Flash):
 1. Copy ROM zip file to SD Card:
@@ -35,8 +36,9 @@ When prompted to reboot to recovery, select Yes
 6. Reboot System:
    - Reboot your device and enjoy the new ROM.
 ---
-### Notes:
-- If the device doesn't boot successfully, reinstall the ROM using the same instructions.
+>[!NOTE]
+>### Notes:
+>- If the device doesn't boot successfully, reinstall the ROM using the same instructions.
 ---
 ### Known Issues:
 - Can't boot GSIs (Enforcing; not tested with Permissive mode). - wontfix
