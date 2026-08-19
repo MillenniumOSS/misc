@@ -13,6 +13,16 @@
 >7. Reading Comprehension(MANDATORY)
 >8. Coffee (optional)
 ---
+>[!CAUTION]
+> DO NOT USE ORANGEFOX, TWRP, OR PBRP 
+> They will never be supported
+> If you get bricked, it's your fault
+>
+> For more information see: [link](https://cyberknight777.dev/posts/2025/12/why-no-twrp-on-modern-devices/)
+
+>[!NOTE]
+> Only use the corresponding AOSP Recovery flavor provided with the ROM(usually called vendor_boot in the post)
+---
 First things first,
 1. Copy ROM zip file to SD Card:
    - Place the ROM zip file in the main directory of your external SD card. this is Important
